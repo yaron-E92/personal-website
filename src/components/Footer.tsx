@@ -31,9 +31,9 @@ const Footer: React.FC = () => {
       <F.Text
         data-v2="footer"
         theme={theme}
-        aria-label="Designed and built by Adam Alston"
+        aria-label="Based on website designed and built by Adam Alston"
       >
-        {'Designed and built by '}
+        {'Based on '}
         <F.Link
           data-v2="creator"
           theme={theme}
@@ -41,7 +41,7 @@ const Footer: React.FC = () => {
           aria-label="Adam's website"
           title="A link to Adam's personal website"
         >
-          {'Adam Alston'}
+          {'Adam Alston\'s site'}
         </F.Link>
         {!isMobile && (
           <>
@@ -53,7 +53,7 @@ const Footer: React.FC = () => {
               aria-label="Source code"
               title="View this website's source code in GitHub"
             >
-              {'Source'}
+              {'Adam Alston\'s site\'s Source'}
             </F.Link>
           </>
         )}
