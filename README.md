@@ -1,18 +1,16 @@
-# <img src="public/favicon.svg" alt="atom" height="24"> adamalston<span></span>.com &middot; ![CI Workflow](https://github.com/adamalston/v2/actions/workflows/ci.yml/badge.svg) [![Netlify status](https://img.shields.io/netlify/332bbd91-59b7-4091-8781-6f41330399b4)](https://app.netlify.com/sites/adamalston/deploys)
+# <img src="public/favicon.svg" alt="atom" height="24"> Based on adamalston<span></span>.com &middot; ![CI Workflow](https://github.com/yaron-E92/personal-website/actions/workflows/ci.yml/badge.svg)
 
-The second iteration of [adamalston.com](https://www.adamalston.com) built using [React](https://reactjs.org) and hosted on [Netlify](https://www.netlify.com).
-
-Previous iteration: [v1](https://github.com/adamalston/v1)
+Based on the second iteration of [adamalston.com](https://www.adamalston.com) built using [React](https://reactjs.org) and hosted on [Ionos?](https://www.ionos.com).
 
 <img float="left" height="370" src="images/desktop.png" alt="Desktop Preview" role="img" aria-label="desktop screenshot"> <img align="right" height="370" src="images/mobile.png" alt="Mobile Preview" role="img" aria-label="mobile screenshot">
 
-I have designed this website to be simple and accessible. Dynamic particles create an experience that is interactive for visitors. The site offers two themes via a toggle, a dark theme (default) and a light theme. Once toggled, the selected theme should persist between tabs, windows, and page reloads.
+Adam Alston originally designed this website to be simple and accessible. Dynamic particles create an experience that is interactive for visitors. The site offers two themes via a toggle, a dark theme (default) and a light theme. Once toggled, the selected theme should persist between tabs, windows, and page reloads.
 
 Mobile support for the site ranges from 4 in. displays through 6.7 in. all the way up to 13 in. tablets.
 
 ## <img src="https://git.io/JUnUc" height="18"> Open Source
 
-I made this website open source under the assumption that others would use the code to create their own websites. I only ask that this code be used with attribution as a significant amount of time was spent writing and optimizing it. Please give proper credit by linking back to [adamalston.com](https://www.adamalston.com). Thanks!
+Adam Alston made this website open source under the assumption that others would use the code to create their own websites. I give attribution and proper credit by linking back to [adamalston.com](https://www.adamalston.com).
 
 <details>
   <summary><b>Install &amp; Setup</b></summary>
@@ -60,4 +58,4 @@ Text and icons have a color contrast ratio greater than 7:1 satisfying [WCAG 2.1
 
 ---
 
-If you found this project useful, please consider giving it a <img src="https://git.io/JUn8T" height="14">! If you have any questions or feedback, open an issue and I will get back to you :&#8203;)
+If you found this project useful, please consider visiting the original by [Adam Alston](https://github.com/adamalston/v2)
